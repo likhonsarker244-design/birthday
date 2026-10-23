@@ -21,9 +21,9 @@ const birthdayConfig = {
 
   // 3) Photos — add as many as you like (images live in assets/images/)
   photos: [
-    { image: "assets/images/photo1.jpg", caption: "Beautiful Memory ❤️" },
-    { image: "assets/images/photo2.jpg", caption: "Another Beautiful Memory ✨" },
-    { image: "assets/images/photo3.jpg", caption: "Wishes & candles 🎂" },
+    { image: "assets/images/photo4.jpg", caption: "Beautiful Memory ❤️" },
+    { image: "assets/images/photo5.jpg", caption: "Another Beautiful Memory ✨" },
+    { image: "assets/images/photo6.jpg", caption: "Wishes & candles 🎂" },
   ],
 };
 /* -------------- END OF CONFIGURATION -------------------- */
