@@ -7,7 +7,7 @@
    --------------------------------------------------------- */
 const birthdayConfig = {
   // 1) The person's name
-  name: "Ayesha",
+  name: "likhon",
 
   // 2) The birthday card message
   message:
